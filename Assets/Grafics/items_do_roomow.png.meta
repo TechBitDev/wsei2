@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: 4253e8b6a9ac3434b8a7fecf6166a48e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2842451249672588492
+    second: items_do_roomow_0
+  - first:
+      213: 6410400347771899522
+    second: items_do_roomow_1
+  - first:
+      213: -3606826506649062801
+    second: items_do_roomow_2
+  - first:
+      213: 5336781637781542634
+    second: items_do_roomow_3
+  - first:
+      213: -5708942858035216771
+    second: items_do_roomow_4
+  - first:
+      213: 5859576114251015906
+    second: items_do_roomow_5
+  - first:
+      213: 3985972808150970812
+    second: items_do_roomow_6
+  - first:
+      213: -6460991007299499909
+    second: items_do_roomow_7
+  - first:
+      213: -7426610769135298955
+    second: items_do_roomow_8
+  - first:
+      213: 8030126723728220837
+    second: items_do_roomow_9
+  - first:
+      213: -5590010658947183418
+    second: items_do_roomow_10
+  - first:
+      213: -5230774060726934430
+    second: items_do_roomow_11
+  - first:
+      213: 5761089670825368505
+    second: items_do_roomow_12
+  - first:
+      213: 6418364484790935756
+    second: items_do_roomow_13
+  - first:
+      213: -4471346329525280884
+    second: items_do_roomow_14
+  - first:
+      213: 4097109472554438062
+    second: items_do_roomow_15
+  - first:
+      213: 3789471307364839933
+    second: items_do_roomow_16
+  - first:
+      213: -2843194672004027655
+    second: items_do_roomow_17
+  - first:
+      213: -6545666485890479949
+    second: items_do_roomow_18
+  - first:
+      213: -1715055865821968585
+    second: items_do_roomow_19
+  - first:
+      213: 479841415392993043
+    second: items_do_roomow_20
+  - first:
+      213: -8140937538356198242
+    second: items_do_roomow_21
+  - first:
+      213: -7069202529067261762
+    second: items_do_roomow_22
+  - first:
+      213: -3192939523575163212
+    second: items_do_roomow_23
+  - first:
+      213: -1553183811272275732
+    second: items_do_roomow_24
+  - first:
+      213: -1083936498434648906
+    second: items_do_roomow_25
+  - first:
+      213: -3124796242623244993
+    second: items_do_roomow_26
+  - first:
+      213: 8946740908985095807
+    second: items_do_roomow_27
+  - first:
+      213: 6418352362145674379
+    second: items_do_roomow_28
+  - first:
+      213: -509478433120875067
+    second: items_do_roomow_29
+  - first:
+      213: -5524129448007366208
+    second: items_do_roomow_30
+  - first:
+      213: -5381125165676070449
+    second: items_do_roomow_31
+  - first:
+      213: 4569223878503016768
+    second: items_do_roomow_32
+  - first:
+      213: -591679128009955074
+    second: items_do_roomow_33
+  - first:
+      213: 1270149616089389813
+    second: items_do_roomow_34
+  - first:
+      213: 650897908885508460
+    second: items_do_roomow_35
+  - first:
+      213: -4589221685861901343
+    second: items_do_roomow_36
+  - first:
+      213: -4272294853135127365
+    second: items_do_roomow_37
+  - first:
+      213: 3462234065935820465
+    second: items_do_roomow_38
+  - first:
+      213: 5958839116788459832
+    second: items_do_roomow_39
+  - first:
+      213: 1069130534173046334
+    second: items_do_roomow_40
+  - first:
+      213: -5986688580973527154
+    second: items_do_roomow_41
+  - first:
+      213: -1632232691203752809
+    second: items_do_roomow_42
+  - first:
+      213: -8414476767521768903
+    second: items_do_roomow_43
+  - first:
+      213: 3686385156320425610
+    second: items_do_roomow_44
+  - first:
+      213: -6605125624682416477
+    second: items_do_roomow_45
+  - first:
+      213: 6170862039506287544
+    second: items_do_roomow_46
+  - first:
+      213: -880743959155277835
+    second: items_do_roomow_47
+  - first:
+      213: 463094493921018532
+    second: items_do_roomow_48
+  - first:
+      213: 569836590389509572
+    second: items_do_roomow_49
+  - first:
+      213: -1246537470348699854
+    second: items_do_roomow_50
+  - first:
+      213: 4708911093166284471
+    second: items_do_roomow_51
+  - first:
+      213: 7070009023811889404
+    second: items_do_roomow_52
+  - first:
+      213: -2813481435929141183
+    second: items_do_roomow_53
+  - first:
+      213: -6706689585412899650
+    second: items_do_roomow_54
+  - first:
+      213: 5332928032574249572
+    second: items_do_roomow_55
+  - first:
+      213: 5824428765215371678
+    second: items_do_roomow_56
+  - first:
+      213: -7387271888011233051
+    second: items_do_roomow_57
+  - first:
+      213: 2679983998349374583
+    second: items_do_roomow_58
+  - first:
+      213: -825754718164952670
+    second: items_do_roomow_59
+  - first:
+      213: 6950993232823713060
+    second: items_do_roomow_60
+  - first:
+      213: 8380113630777494719
+    second: items_do_roomow_61
+  - first:
+      213: 5777103626638575508
+    second: items_do_roomow_62
+  - first:
+      213: 6915918625481489489
+    second: items_do_roomow_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: items_do_roomow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1130
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43376ebf5a59d88d0800000000000000
+      internalID: -2842451249672588492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1136
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e0cfc072156f850800000000000000
+      internalID: 6410400347771899522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1130
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6238b8e66af1fdc0800000000000000
+      internalID: -3606826506649062801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1132
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6dbc3cf9e001a40800000000000000
+      internalID: 5336781637781542634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1148
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ebec7c7b2c5c0b0800000000000000
+      internalID: -5708942858035216771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1148
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ab483e65615150800000000000000
+      internalID: 5859576114251015906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1148
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb174328625015730800000000000000
+      internalID: 3985972808150970812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1130
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b788be029e2f556a0800000000000000
+      internalID: -6460991007299499909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_8
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1130
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57699947ad06fe890800000000000000
+      internalID: -7426610769135298955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_9
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1130
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a22135b5bdb07f60800000000000000
+      internalID: 8030126723728220837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1136
+        width: 90
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4ece3cea4c62b0800000000000000
+      internalID: -5590010658947183418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1146
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2642b02a4be8867b0800000000000000
+      internalID: -5230774060726934430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1034
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbd7b4388083ff40800000000000000
+      internalID: 5761089670825368505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1034
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc062f23e7c921950800000000000000
+      internalID: 6418364484790935756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1034
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f16e8143692f1c0800000000000000
+      internalID: -4471346329525280884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1034
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadce7d9b5bdbd830800000000000000
+      internalID: 4097109472554438062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_16
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1034
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1340a9318e69430800000000000000
+      internalID: 3789471307364839933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1034
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9faaaeb7281fa88d0800000000000000
+      internalID: -2843194672004027655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1034
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b88152f20f1925a0800000000000000
+      internalID: -6545666485890479949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1034
+        width: 192
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374bbbd6c5e238e0800000000000000
+      internalID: -1715055865821968585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_20
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1034
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1509993db8a600800000000000000
+      internalID: 479841415392993043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_21
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1034
+        width: 94
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94c2aff074950f80800000000000000
+      internalID: -8140937538356198242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1034
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb027a901c525ed90800000000000000
+      internalID: -7069202529067261762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 810
+        width: 706
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b65ff39b6660b3d0800000000000000
+      internalID: -3192939523575163212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 592
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88a328d8bf17ae0800000000000000
+      internalID: -1553183811272275732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_25
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 592
+        width: 126
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d8b36f7515f0f0800000000000000
+      internalID: -1083936498434648906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 592
+        width: 94
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3557fa8f5e72a4d0800000000000000
+      internalID: -3124796242623244993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_27
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 592
+        width: 94
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7613817475392c70800000000000000
+      internalID: 8946740908985095807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_28
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 620
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b847bfca771921950800000000000000
+      internalID: 6418352362145674379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_29
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 620
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd8b1d7018fde8f0800000000000000
+      internalID: -509478433120875067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_30
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 624
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c90f3ef8895653b0800000000000000
+      internalID: -5524129448007366208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_31
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 624
+        width: 60
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc976f71c276255b0800000000000000
+      internalID: -5381125165676070449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_32
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 618
+        width: 192
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049a761a8e4296f30800000000000000
+      internalID: 4569223878503016768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 458
+        width: 110
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef824f9c7fee9c7f0800000000000000
+      internalID: -591679128009955074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_34
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 458
+        width: 122
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5b96a85a70a110800000000000000
+      internalID: 1270149616089389813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 458
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615a241334780900800000000000000
+      internalID: 650897908885508460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_36
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 458
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb9ea2013fcf40c0800000000000000
+      internalID: -4589221685861901343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_37
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 458
+        width: 124
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbca6277772c5b4c0800000000000000
+      internalID: -4272294853135127365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_38
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 458
+        width: 98
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66c5d0a835c0030800000000000000
+      internalID: 3462234065935820465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 330
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839e0edfa9c02b250800000000000000
+      internalID: 5958839116788459832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_40
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 330
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3678eb6e8056de00800000000000000
+      internalID: 1069130534173046334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_41
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 330
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f7f2654720beca0800000000000000
+      internalID: -5986688580973527154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_42
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 330
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c350ae3052959e0800000000000000
+      internalID: -1632232691203752809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 234
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a761536f5c93b80800000000000000
+      internalID: -8414476767521768903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 330
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8670c3b4cba82330800000000000000
+      internalID: 3686385156320425610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_45
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 234
+        width: 94
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a679f36d31e554a0800000000000000
+      internalID: -6605125624682416477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_46
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 330
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbf6be845e43a550800000000000000
+      internalID: 6170862039506287544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_47
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 234
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff7a781908f6c3f0800000000000000
+      internalID: -880743959155277835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_48
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 234
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20a971dfd3d6600800000000000000
+      internalID: 463094493921018532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_49
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 234
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdbf2e1c5778e700800000000000000
+      internalID: 569836590389509572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 252
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237d6a076c863bee0800000000000000
+      internalID: -1246537470348699854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_51
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 10
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be921bb0b9695140800000000000000
+      internalID: 4708911093166284471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_52
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 10
+        width: 48
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf82d17afb7bd1260800000000000000
+      internalID: 7070009023811889404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_53
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 10
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140a94d5a8184f8d0800000000000000
+      internalID: -2813481435929141183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_54
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 74
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcf6aa0b5d0de2a0800000000000000
+      internalID: -6706689585412899650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_55
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 74
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a9f426acd520a40800000000000000
+      internalID: 5332928032574249572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_56
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 12
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91ba325a1784d050800000000000000
+      internalID: 5824428765215371678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_57
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 12
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e87cd77b532b7990800000000000000
+      internalID: -7387271888011233051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_58
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 74
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77478515f37313520800000000000000
+      internalID: 2679983998349374583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_59
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 74
+        width: 54
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9dc2875745a84f0800000000000000
+      internalID: -825754718164952670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_60
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 74
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42df99e6483e67060800000000000000
+      internalID: 6950993232823713060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_61
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 10
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcc6eb82f42c4470800000000000000
+      internalID: 8380113630777494719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 22
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c968d3256c2050800000000000000
+      internalID: 5777103626638575508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: items_do_roomow_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 16
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf45709574aff50800000000000000
+      internalID: 6915918625481489489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
