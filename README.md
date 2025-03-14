@@ -19,10 +19,17 @@ Idąc tam powoli, smętną drogą zauważasz coś migocącego w oddali, a zaraze
 
 W GRZE:
 Jesteś już w Willi. Ciemno, Ponuro, Przerażająco. Nikogo od dawna tutaj nie było...
+
+
+SAMOUCZEK
+
 {tutaj jeszcze nie masz dostępu do każdego pokoju czy miejsca}
 # Main goal: 
 +Mini ekspolracja mapy. Szukasz wuja, który ma się tobą zająć
-SAMOUCZEK
+
+
+
+
 
 + Natrafiasz na lustro. Po dłuższym przyglądaniu się lustrze, zauważasz że lustro nie jest zwyczajne. Wszytko niby wygląda normalnie, lecz brakuje szyby w lustrze.
 
