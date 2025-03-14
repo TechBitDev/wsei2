@@ -52,3 +52,8 @@ SAMOUCZEK
     + Jeziorko - odwrócona rzeczywistość odwrócony Y oraz klawisze (w==s  s==w a==d d==a)
     + Studnia - odbicie w kamieniu gdy wyjedziesz spadasz {minigierka}
     + Książka - unwiersum skakanie po literkach na koncu tunelu książka
+   
+ENDINGI
++ jeżeli za długo jesteś w mirror damention spawni sie nob i masz minigierke uceikania -> jezeli wygrasz to wychodzisz jezeli nie to death scene
++ Jezeli nie robisz według goala spawnia sie noby {migajace}
++ mini gierka w book dimention - jezeli fallniesz miedz literkami death
