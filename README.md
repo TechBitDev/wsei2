@@ -19,10 +19,17 @@ Idąc tam powoli, smętną drogą zauważasz coś migocącego w oddali, a zaraze
 
 W GRZE:
 Jesteś już w Willi. Ciemno, Ponuro, Przerażająco. Nikogo od dawna tutaj nie było...
+
+
+SAMOUCZEK
+
 {tutaj jeszcze nie masz dostępu do każdego pokoju czy miejsca}
 # Main goal: 
 +Mini ekspolracja mapy. Szukasz wuja, który ma się tobą zająć
-SAMOUCZEK
+
+
+
+
 
 + Natrafiasz na lustro. Po dłuższym przyglądaniu się lustrze, zauważasz że lustro nie jest zwyczajne. Wszytko niby wygląda normalnie, lecz brakuje szyby w lustrze.
 
@@ -52,3 +59,8 @@ SAMOUCZEK
     + Jeziorko - odwrócona rzeczywistość odwrócony Y oraz klawisze (w==s  s==w a==d d==a)
     + Studnia - odbicie w kamieniu gdy wyjedziesz spadasz {minigierka}
     + Książka - unwiersum skakanie po literkach na koncu tunelu książka
+   
+ENDINGI
++ jeżeli za długo jesteś w mirror damention spawni sie nob i masz minigierke uceikania -> jezeli wygrasz to wychodzisz jezeli nie to death scene
++ Jezeli nie robisz według goala spawnia sie noby {migajace}
++ mini gierka w book dimention - jezeli fallniesz miedz literkami death
