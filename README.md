@@ -64,3 +64,10 @@ ENDINGI
 + jeżeli za długo jesteś w mirror damention spawni sie nob i masz minigierke uceikania -> jezeli wygrasz to wychodzisz jezeli nie to death scene
 + Jezeli nie robisz według goala spawnia sie noby {migajace}
 + mini gierka w book dimention - jezeli fallniesz miedz literkami death
+
+QUEST ITEMY 
+* książka - opwiesc o iluzjoniscie oraz niepwneosci (bedzie rozwiniete)
+* klucz (otwiera drzwi do final pokoju)
+* nóż z krwią (otrzymany po ucieczce od nessesrly bosa w mirror roomie)
+* flower (pamiatka ktora wyniesiesz pod koniec gry)
+
