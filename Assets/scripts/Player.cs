@@ -9,6 +9,8 @@ public class Player : MonoBehaviour
     private short inputMultiplier = 1;
 
     public GameObject mirror;
+    GameOverScreen DeathScreen;
+    
 
 
 
@@ -40,7 +42,10 @@ public class Player : MonoBehaviour
         if (collision.gameObject.CompareTag("Enemy"))
         {
             Debug.Log("touched enemy");
-            SendMessage("playDeathAnimationSkull");
+            // SendMessageUpwards("playDeathAnimationSkull");
+            DeathScreen = GameObject.FindGameObjectWithTag("GameOver").GetComponent<GameOverScreen>();
+            DeathScreen.playDeathAnimationSkull();
+
             Destroy(GameObject.Find("Player"));
             Debug.Log("aa");
         }
@@ -61,6 +66,12 @@ public class Player : MonoBehaviour
         {
             Debug.Log("inverting horizontal controls");
             inputMultiplier *= -1;
+        }
+        
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("got key");
+            hasKey = true;
         }
     }
 }

@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace DefaultNamespace
 {
-    public class Audio:MonoBehaviour
+    public class Audio : MonoBehaviour
     {
         [SerializeField] AudioSource audioSource;
         public AudioClip audioClip;
@@ -14,5 +14,5 @@ namespace DefaultNamespace
             audioSource.Play();
         }
     }
-    
+
 }

@@ -6,6 +6,8 @@ public class Mirror : MonoBehaviour
     private SpriteRenderer thisSpriteRenderer;
     private SpriteRenderer bgSpriteRenderer;
 
+    byte touchCounter = 0;
+
 
     private bool swapped = false;
 
@@ -30,13 +32,23 @@ public class Mirror : MonoBehaviour
             if (swapped)
             {
                 thisSpriteRenderer.sprite = Resources.Load<Sprite>("mirror");
-                bgSpriteRenderer.color = Color.white;
+                bgSpriteRenderer.sprite = Resources.Load<Sprite>("bg_castle2");
+                // bgSpriteRenderer.color = Color.white;
+                Debug.Log("asaaaa");
             }
             else
             {
                 thisSpriteRenderer.sprite = Resources.Load<Sprite>("mirro_purple");
-                bgSpriteRenderer.color = new Color(223, 139, 255, 255);
+                // bgSpriteRenderer.color = new Color(223, 139, 255, 255);
                 bgSpriteRenderer.sprite = Resources.Load<Sprite>("bg_castle");
+                Debug.Log("ba");
+            }
+            swapped = !swapped;
+            touchCounter++;
+
+            if (touchCounter == 3)
+            {
+                SendMessage("ShowKey");
             }
         }
 

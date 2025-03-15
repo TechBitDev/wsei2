@@ -4,7 +4,7 @@ public class Follow_player : MonoBehaviour
 {
 
     public Transform Player;
-    private bool following = false;
+    private bool following = true;
 
     void Update()
     {

@@ -8,6 +8,7 @@ TagManager:
   - MirrorGlass
   - Background
   - Enemy
+  - GameOver
   layers:
   - Default
   - TransparentFX
@@ -47,6 +48,9 @@ TagManager:
     locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: ssssss
+    uniqueID: 1703670923
     locked: 0
   m_RenderingLayers:
   - Default

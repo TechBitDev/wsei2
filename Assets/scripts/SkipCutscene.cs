@@ -1,9 +1,12 @@
+using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Video;
 
 public class SkipCutscene : MonoBehaviour
 {
-    public GameObject CutscenePlayer;
+    public VideoPlayer CutscenePlayer;
+    public GameObject CutscenePlayer1;
     public GameObject Game;
     public bool isListening = false;
     void Start()
@@ -17,14 +20,18 @@ public class SkipCutscene : MonoBehaviour
         {
             isListening = false;
             GetComponent<VideoPlayer>().Stop();
-            CutscenePlayer.SetActive(false);
-            SendMessage("pauseMenuStartListening");
-            SendMessage("cameraStartFollowing"); 
+            CutscenePlayer1.SetActive(false);
             Game.SetActive(true);
         }
+        
+        // if (!CutscenePlayer.isPlaying)
+        // {
+        //     isListening = false;
+
+        // }
     }
 
-    void cutsceneStart()
+    public void cutsceneStart()
     {
         isListening = true;
         GetComponent<VideoPlayer>().Play();
