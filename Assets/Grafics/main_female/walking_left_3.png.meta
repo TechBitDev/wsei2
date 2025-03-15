@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 08dd13f857d45354cb883f711eceab7d
+guid: 30d51fc7a6653264e809b752e0d0e73c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9051692800306759852
-    second: window_0
+      213: -8550845740712323795
+    second: walking_left_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window_0
+      name: walking_left_3_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 83
-        height: 81
+        x: 1
+        y: 1
+        width: 49
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45731c52b5de16280800000000000000
-      internalID: -9051692800306759852
+      spriteID: d251ea76a1b455980800000000000000
+      internalID: -8550845740712323795
       vertices: []
       indices: 
       edges: []

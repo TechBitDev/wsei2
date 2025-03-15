@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2bef67deda5be0b46810835584050841
+guid: 0461bd2ade533a84abab70ebfb3af57e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1741683673710026407
-    second: walking_left_1_0
+      213: 5632821140356901969
+    second: mirror_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walking_left_1_0
+      name: mirror_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 6
         y: 0
-        width: 45
-        height: 97
+        width: 42
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7ae559ac214bb2810800000000000000
-      internalID: 1741683673710026407
+      spriteID: 15ca842bbfccb2e40800000000000000
+      internalID: 5632821140356901969
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      walking_left_1_0: 1741683673710026407
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

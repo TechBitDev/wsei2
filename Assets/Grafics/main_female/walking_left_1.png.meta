@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2bef67deda5be0b46810835584050841
+guid: 0d415499caba198448fc385dc83e3093
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -116,10 +116,10 @@ TextureImporter:
       name: walking_left_1_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 0
-        width: 45
-        height: 97
+        x: 2
+        y: 1
+        width: 48
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      walking_left_1_0: 1741683673710026407
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
