@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 1a544e6f5cbd1284f8c78a789bf1d13e
+guid: cbf980b417755cd42b16b6fe6010dce1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3529431947554515940
-    second: chmurka_0
+      213: -4907955214830582050
+    second: Paper_Sprite_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chmurka_0
+      name: Paper_Sprite_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 360
-        height: 240
+        x: 4
+        y: 7
+        width: 23
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ebe6e418af0bf030800000000000000
-      internalID: 3529431947554515940
+      spriteID: ed64f7e4cb073ebb0800000000000000
+      internalID: -4907955214830582050
       vertices: []
       indices: 
       edges: []
@@ -147,12 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
-    nameFileIdTable:
-      chmurka_0: 3529431947554515940
-=======
     nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 1a544e6f5cbd1284f8c78a789bf1d13e
+guid: 2d64c80426f258a46adc793bbd928131
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3529431947554515940
-    second: chmurka_0
+      213: 7772266955515378976
+    second: player-run-sp4_0
+  - first:
+      213: -2641421031203560803
+    second: player-run-sp4_1
+  - first:
+      213: -3419960597455892095
+    second: player-run-sp4_2
+  - first:
+      213: -2730991109509922488
+    second: player-run-sp4_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chmurka_0
+      name: player-run-sp4_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 360
-        height: 240
+        y: 5
+        width: 43
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ebe6e418af0bf030800000000000000
-      internalID: 3529431947554515940
+      spriteID: 02d3007ed93acdb60800000000000000
+      internalID: 7772266955515378976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92add42199c75bd0800000000000000
+      internalID: -2641421031203560803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1811fc2d4fbd980d0800000000000000
+      internalID: -3419960597455892095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84149e82e02991ad0800000000000000
+      internalID: -2730991109509922488
       vertices: []
       indices: 
       edges: []
@@ -147,12 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
-    nameFileIdTable:
-      chmurka_0: 3529431947554515940
-=======
     nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 1a544e6f5cbd1284f8c78a789bf1d13e
+guid: 4a02d6c3c4f277145ba6df92fb4082d7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3529431947554515940
-    second: chmurka_0
+      213: -4631336749209548592
+    second: summon_0
+  - first:
+      213: -2921172321250403043
+    second: summon_1
+  - first:
+      213: -5434011753326306553
+    second: summon_2
+  - first:
+      213: -1889970089500947440
+    second: summon_3
+  - first:
+      213: 1929732825256986462
+    second: summon_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chmurka_0
+      name: summon_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 360
-        height: 240
+        x: 33
+        y: 116
+        width: 47
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ebe6e418af0bf030800000000000000
-      internalID: 3529431947554515940
+      spriteID: 0d80724b3cf2abfb0800000000000000
+      internalID: -4631336749209548592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 116
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d9a283049e577d0800000000000000
+      internalID: -2921172321250403043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 116
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b10b9d9138694b0800000000000000
+      internalID: -5434011753326306553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon_3
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 116
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cce23973a75c5e0800000000000000
+      internalID: -1889970089500947440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summon_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 16
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578ad8c7c9c7ca10800000000000000
+      internalID: 1929732825256986462
       vertices: []
       indices: 
       edges: []
@@ -147,12 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-<<<<<<< Updated upstream
-    nameFileIdTable:
-      chmurka_0: 3529431947554515940
-=======
     nameFileIdTable: {}
->>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
