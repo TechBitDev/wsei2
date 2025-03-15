@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 687146a03cfb99d4cadf880f8fb69087
+guid: 0461bd2ade533a84abab70ebfb3af57e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9051692800306759852
-    second: window_0
+      213: 5632821140356901969
+    second: mirror_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,7 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: WindowsStoreApps
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: window_0
+      name: mirror_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 6
         y: 0
-        width: 83
-        height: 81
+        width: 42
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45731c52b5de16280800000000000000
-      internalID: -9051692800306759852
+      spriteID: 15ca842bbfccb2e40800000000000000
+      internalID: 5632821140356901969
       vertices: []
       indices: 
       edges: []
