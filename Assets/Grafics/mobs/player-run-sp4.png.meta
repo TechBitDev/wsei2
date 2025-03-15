@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 4b3a3d4b2a57ada4cbfb1070fc7630ef
+guid: 2d64c80426f258a46adc793bbd928131
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4190969372824959882
-    second: trav2_0
+      213: 7772266955515378976
+    second: player-run-sp4_0
+  - first:
+      213: -2641421031203560803
+    second: player-run-sp4_1
+  - first:
+      213: -3419960597455892095
+    second: player-run-sp4_2
+  - first:
+      213: -2730991109509922488
+    second: player-run-sp4_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +118,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trav2_0
+      name: player-run-sp4_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 237
-        height: 472
+        y: 5
+        width: 43
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8bf5cb9070592a30800000000000000
-      internalID: 4190969372824959882
+      spriteID: 02d3007ed93acdb60800000000000000
+      internalID: 7772266955515378976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92add42199c75bd0800000000000000
+      internalID: -2641421031203560803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 5
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1811fc2d4fbd980d0800000000000000
+      internalID: -3419960597455892095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-run-sp4_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84149e82e02991ad0800000000000000
+      internalID: -2730991109509922488
       vertices: []
       indices: 
       edges: []
@@ -160,8 +222,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      trav2_0: 4190969372824959882
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

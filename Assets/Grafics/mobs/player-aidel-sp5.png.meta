@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 4b3a3d4b2a57ada4cbfb1070fc7630ef
+guid: 13cf132f3bc268b4ca619dfcb1e42e4b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4190969372824959882
-    second: trav2_0
+      213: 7403203447608180004
+    second: player-aidel-sp5_0
+  - first:
+      213: 3194078604724040238
+    second: player-aidel-sp5_1
+  - first:
+      213: -8162556265682185578
+    second: player-aidel-sp5_2
+  - first:
+      213: 1976780179526726785
+    second: player-aidel-sp5_3
+  - first:
+      213: -2452176134317793710
+    second: player-aidel-sp5_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +121,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trav2_0
+      name: player-aidel-sp5_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 237
-        height: 472
+        x: 25
+        y: 16
+        width: 25
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8bf5cb9070592a30800000000000000
-      internalID: 4190969372824959882
+      spriteID: 42df1aecf467db660800000000000000
+      internalID: 7403203447608180004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-aidel-sp5_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22704b6195a35c20800000000000000
+      internalID: 3194078604724040238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-aidel-sp5_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 16
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692dfdcc256c8be80800000000000000
+      internalID: -8162556265682185578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-aidel-sp5_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18439bf891fee6b10800000000000000
+      internalID: 1976780179526726785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-aidel-sp5_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 16
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e1c4b4cce18fdd0800000000000000
+      internalID: -2452176134317793710
       vertices: []
       indices: 
       edges: []
@@ -160,8 +247,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      trav2_0: 4190969372824959882
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

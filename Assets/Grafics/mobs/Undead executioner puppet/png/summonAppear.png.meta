@@ -1,10 +1,25 @@
 fileFormatVersion: 2
-guid: 4b3a3d4b2a57ada4cbfb1070fc7630ef
+guid: fa39565ce1bd9da4bac7cad7dd60a53d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4190969372824959882
-    second: trav2_0
+      213: 4859837826577371973
+    second: summonAppear_0
+  - first:
+      213: -3673687046622777846
+    second: summonAppear_1
+  - first:
+      213: 391189540855071130
+    second: summonAppear_2
+  - first:
+      213: -1097755214780750966
+    second: summonAppear_3
+  - first:
+      213: -1211663155149488202
+    second: summonAppear_4
+  - first:
+      213: -6482640304168729237
+    second: summonAppear_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +124,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trav2_0
+      name: summonAppear_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 237
-        height: 472
+        x: 20
+        y: 62
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +143,118 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8bf5cb9070592a30800000000000000
-      internalID: 4190969372824959882
+      spriteID: 543962731cc917340800000000000000
+      internalID: 4859837826577371973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summonAppear_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e681a5811740dc0800000000000000
+      internalID: -3673687046622777846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summonAppear_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 61
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c38690d8cd6500800000000000000
+      internalID: 391189540855071130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summonAppear_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8329a4c27df3c0f0800000000000000
+      internalID: -1097755214780750966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summonAppear_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 11
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfb2e1b7ce4f2fe0800000000000000
+      internalID: -1211663155149488202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: summonAppear_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6584676df80906a0800000000000000
+      internalID: -6482640304168729237
       vertices: []
       indices: 
       edges: []
@@ -160,8 +272,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      trav2_0: 4190969372824959882
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

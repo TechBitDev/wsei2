@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4b3a3d4b2a57ada4cbfb1070fc7630ef
+guid: 2c934b82d1d256141949e125a1b29007
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4190969372824959882
-    second: trav2_0
+      213: -2381520958746457652
+    second: bcg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +109,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trav2_0
+      name: bcg_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 237
-        height: 472
+        width: 640
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8bf5cb9070592a30800000000000000
-      internalID: 4190969372824959882
+      spriteID: cc905cc4e4323fed0800000000000000
+      internalID: -2381520958746457652
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      trav2_0: 4190969372824959882
+      bcg_0: -2381520958746457652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
