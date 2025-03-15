@@ -6,6 +6,9 @@ public class PlayerMovement : MonoBehaviour
     public float jumpForce = 10f;
     private Rigidbody2D rb;
     private bool isGrounded;
+    private short inputMultiplier = 1;
+
+    public GameObject mirror;
 
     void Start()
     {
@@ -15,7 +18,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         float moveInput = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2(moveInput * playerSpeed, rb.linearVelocity.y);
+        rb.linearVelocity = new Vector2(moveInput * playerSpeed * inputMultiplier, rb.linearVelocity.y);
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
@@ -29,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isGrounded = true;
         }
+
     }
 
     private void OnCollisionExit2D(Collision2D collision)
@@ -37,5 +41,15 @@ public class PlayerMovement : MonoBehaviour
         {
             isGrounded = false;
         }
+    }
+
+    public void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("MirrorGlass"))
+        {
+            Debug.Log("inverting horizontal controls");
+            inputMultiplier *= -1;
+        }
+
     }
 }
