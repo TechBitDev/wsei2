@@ -9,7 +9,8 @@ public class Enemy : MonoBehaviour
         // if (collision.gameObject.CompareTag("Player"))
         if (other.gameObject.CompareTag("Player"))
         {
-            SendMessage("playDeathAnimationSkull");
+            SendMessageUpwards("playDeathAnimationSkull");
+            SendMessageUpwards("cameraStopFollowing");
             gameOverScreen.SetActive(true);
             Destroy(GameObject.Find("Player"));
             Debug.Log("killed player");

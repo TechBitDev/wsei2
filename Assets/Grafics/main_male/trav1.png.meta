@@ -1,10 +1,43 @@
 fileFormatVersion: 2
-guid: bff2ed911687cf7408fe47e25b012306
+guid: e423cf0e0cbcb7e409c618f1f2a33e68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1221478452948970668
-    second: trav1_0
+      213: -1340679199403863006
+    second: trav1 1_0
+  - first:
+      213: -534833049263066444
+    second: trav1 1_1
+  - first:
+      213: -6821980053937199300
+    second: trav1 1_2
+  - first:
+      213: 3327190570334304675
+    second: trav1 1_3
+  - first:
+      213: -9021163855766402818
+    second: trav1 1_4
+  - first:
+      213: 4872388224855968173
+    second: trav1 1_5
+  - first:
+      213: 8100735735891073982
+    second: trav1 1_6
+  - first:
+      213: 2690558028115183590
+    second: trav1 1_7
+  - first:
+      213: 4096132058238806637
+    second: trav1 1_8
+  - first:
+      213: -8137455348422089103
+    second: trav1 1_9
+  - first:
+      213: -7730880148199475358
+    second: trav1 1_10
+  - first:
+      213: 2088083566836454988
+    second: trav1 1_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 60
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +108,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -96,30 +129,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: trav1_0
+      name: trav1 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 235
-        height: 477
+        x: 20
+        y: 457
+        width: 55
+        height: 111
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +148,250 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cac21d86e2093f010800000000000000
-      internalID: 1221478452948970668
+      spriteID: 22417c11f53f46de0800000000000000
+      internalID: -1340679199403863006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 457
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b23984ec24e398f0800000000000000
+      internalID: -534833049263066444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 457
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e54c09457351a0800000000000000
+      internalID: -6821980053937199300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 310
+        width: 60
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a93ecc023e8c2e20800000000000000
+      internalID: 3327190570334304675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 310
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef84374f4436ec280800000000000000
+      internalID: -9021163855766402818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 310
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9065686433e9340800000000000000
+      internalID: 4872388224855968173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 163
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb99157b389b6070800000000000000
+      internalID: 8100735735891073982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 163
+        width: 59
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e781697548c65520800000000000000
+      internalID: 2690558028115183590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_8
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 163
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ae96c976268d830800000000000000
+      internalID: 4096132058238806637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 55
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176e2b58973f11f80800000000000000
+      internalID: -8137455348422089103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 64
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2677375177566b490800000000000000
+      internalID: -7730880148199475358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trav1 1_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 16
+        width: 54
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c461e9ed0fc5afc10800000000000000
+      internalID: 2088083566836454988
       vertices: []
       indices: 
       edges: []
@@ -148,7 +410,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      trav1_0: 1221478452948970668
+      trav1 1_0: -1340679199403863006
+      trav1 1_1: -534833049263066444
+      trav1 1_10: -7730880148199475358
+      trav1 1_11: 2088083566836454988
+      trav1 1_2: -6821980053937199300
+      trav1 1_3: 3327190570334304675
+      trav1 1_4: -9021163855766402818
+      trav1 1_5: 4872388224855968173
+      trav1 1_6: 8100735735891073982
+      trav1 1_7: 2690558028115183590
+      trav1 1_8: 4096132058238806637
+      trav1 1_9: -8137455348422089103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

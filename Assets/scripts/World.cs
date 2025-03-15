@@ -2,10 +2,14 @@ using UnityEngine;
 
 public class World : MonoBehaviour
 {
+    public GameObject MainMenuUI;
+    public GameObject Game;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        MainMenuUI.SetActive(true);
+        Game.SetActive(false);
     }
 
     // Update is called once per frame

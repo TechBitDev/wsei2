@@ -6,6 +6,7 @@ public class MainMenu : MonoBehaviour
     public GameObject mainMenuUI;
     public GameObject pauseMenuUi;
     public GameObject game;
+    public GameObject CutscenePlayer;
     public Button OptionsBackButton;
 
     void Start()
@@ -18,8 +19,8 @@ public class MainMenu : MonoBehaviour
     {
         Debug.Log("Starting New Game - Play");
         Time.timeScale = 1f;
-        SendMessage("pauseMenuStartListening");
-        game.SetActive(true);
+        SendMessage("cutsceneStart");
+        CutscenePlayer.SetActive(true);
         mainMenuUI.SetActive(false);
     }
 

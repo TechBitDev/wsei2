@@ -10,6 +10,10 @@ public class Player : MonoBehaviour
 
     public GameObject mirror;
 
+
+
+    public bool hasKey = false;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -33,6 +37,14 @@ public class Player : MonoBehaviour
             isGrounded = true;
         }
 
+        if (collision.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("touched enemy");
+            SendMessage("playDeathAnimationSkull");
+            Destroy(GameObject.Find("Player"));
+            Debug.Log("aa");
+        }
+
     }
 
     private void OnCollisionExit2D(Collision2D collision)
@@ -50,14 +62,5 @@ public class Player : MonoBehaviour
             Debug.Log("inverting horizontal controls");
             inputMultiplier *= -1;
         }
-
-        if (other.gameObject.CompareTag("Enemy"))
-        {
-            Debug.Log("touched enemy");
-            SendMessage("playDeathAnimationSkull");
-            Destroy(GameObject.Find("Player"));
-            Debug.Log("aa");
-        }
-
     }
 }

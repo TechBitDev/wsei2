@@ -4,7 +4,10 @@ public class Mirror : MonoBehaviour
 {
     public GameObject bg;
     private SpriteRenderer thisSpriteRenderer;
-    private SpriteRenderer otherSpriteRenderer;
+    private SpriteRenderer bgSpriteRenderer;
+
+
+    private bool swapped = false;
 
     void Start()
     {
@@ -12,7 +15,7 @@ public class Mirror : MonoBehaviour
 
         if (bg != null)
         {
-            otherSpriteRenderer = bg.GetComponent<SpriteRenderer>();
+            bgSpriteRenderer = bg.GetComponent<SpriteRenderer>();
         }
     }
 
@@ -24,10 +27,17 @@ public class Mirror : MonoBehaviour
         // if (collision.gameObject.CompareTag("Player"))
         if (other.gameObject.CompareTag("Player"))
         {
-            Sprite tempSprite = thisSpriteRenderer.sprite;
-            thisSpriteRenderer.sprite = otherSpriteRenderer.sprite;
-            otherSpriteRenderer.sprite = tempSprite;
-
+            if (swapped)
+            {
+                thisSpriteRenderer.sprite = Resources.Load<Sprite>("mirror");
+                bgSpriteRenderer.color = Color.white;
+            }
+            else
+            {
+                thisSpriteRenderer.sprite = Resources.Load<Sprite>("mirro_purple");
+                bgSpriteRenderer.color = new Color(223, 139, 255, 255);
+                bgSpriteRenderer.sprite = Resources.Load<Sprite>("bg_castle");
+            }
         }
 
         // Debug.Log("Attempting sprite swap");
