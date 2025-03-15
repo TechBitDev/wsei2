@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Grafics/main_female/standing_v1.png.meta
 guid: 4ad5709188263d4489a10abde024d164
+========
+guid: 2c934b82d1d256141949e125a1b29007
+>>>>>>>> dev:Assets/Grafics/Samouczek/bcg.png.meta
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -97,7 +101,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WindowsStoreApps
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
