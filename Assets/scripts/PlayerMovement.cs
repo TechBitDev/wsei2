@@ -1,3 +1,4 @@
+using UnityEditor.Animations;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
@@ -7,19 +8,25 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private bool isGrounded;
     private short inputMultiplier = 1;
-
+    private Animator anim;
     public GameObject mirror;
+    [Header("Animation")]
+    [SerializeField] private AnimationClip move_left;
+    [SerializeField] private AnimationClip move_right;
+    [SerializeField] private AnimationClip stay;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update()
     {
         float moveInput = Input.GetAxis("Horizontal");
         rb.linearVelocity = new Vector2(moveInput * playerSpeed * inputMultiplier, rb.linearVelocity.y);
-
+        if (Input.GetKeyDown(KeyCode.D)) transform.localScale = new Vector3(-3, 3, 1);
+        else if (Input.GetKeyDown(KeyCode.A)) transform.localScale = new Vector3(3, 3, 1);
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);

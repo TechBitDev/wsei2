@@ -4,7 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a76b355-edb1-47b5-8993-dc50f7e32065" name="Changes" comment="" />
+    <list default="true" id="2a76b355-edb1-47b5-8993-dc50f7e32065" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.wsei2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wsei2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle -Background  Layer 2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle -Background  Layer 2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle -Background Layer 1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle -Background Layer 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle Background -Layer 3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/BG/Castle Background -Layer 3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Chest 01 Locked.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Chest 01 Locked.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Chest 01 Unlocked.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Chest 01 Unlocked.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Key 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Collectable Object - Key 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Armor.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Armor.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Banner.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Banner.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Bookcase.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Bookcase.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Door 03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Portrait.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Portrait.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 05.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 07.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 08.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Rock 08.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Shield.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Shield.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 04.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 05.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Sign 06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Statue.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment - Statue.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Decor Window.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Decor Window.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Glow.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Glow.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 04.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 05.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 07.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 08.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Flame Holder 08.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Web.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Environment-Web.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Foldin Platform- 03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Foldin Platform- 03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Folding Platform- 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Folding Platform- 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Folding Platform- 02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Folding Platform- 02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Hazard- Saw Line.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Hazard- Saw Line.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Hazard-Saw.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Hazard-Saw.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Platformer - Ladder.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Platformer - Ladder.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Platformer - Wooden Barrel.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Platformer - Wooden Barrel.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-Agility-Energy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-Agility-Energy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-HP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-HP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-MP.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Potions-MP.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Artifact.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Artifact.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Earings.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Earings.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Rune Book.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Rune Book.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Rune.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Quest-Rune.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Trap - Spike.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Castle Tileset_Trap - Spike.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Hazard-Revolving Spike Ball.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Props/Hazard-Revolving Spike Ball.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 01.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 02.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 03.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 04.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 05.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 06.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 07.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 08.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 08.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 09.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 09.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 10.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 11.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 12.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Castle Tileset Free/Tiles/Castle Tileset_Platformer - Ground 13.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/Paper_Sprite.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/chmurka.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/chmurka.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/father/dad1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/father/dad1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/father/dad_standing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/father/dad_standing.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/father/dad_walking_left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/father/dad_walking_left.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/father/walking_right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/father/walking_right.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_female/bcg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_female/bcg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/stand_v3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standingMain.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standingMain.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/standing_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_l_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/main_male/walking_r_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/attacking.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/attacking.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/death.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/death.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/idle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/idle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/idle2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/idle2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/skill1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/skill1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonAppear.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonAppear.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonDeath.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonDeath.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonIdle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/Undead executioner puppet/png/summonIdle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/player-aidel-sp5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/player-aidel-sp5.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/player-run-sp4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/player-run-sp4.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mobs/skeleton 128x128.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mobs/skeleton 128x128.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/mom.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/mom.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/momStandin3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/mom_standing.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/mom_standing.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/mom_walking_left.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/mom_walking_left.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/mom_walking_right.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/mom_walking_right.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/walking_left_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/walking_left_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/walking_left_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/walking_left_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/walking_reight_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/walking_reight_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/walking_righht_3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/walking_righht_3.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/walking_right_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/walking_right_2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/mom/wallking_left_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/mom/wallking_left_1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/other/door.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/other/shelf_book.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/quest_items/bloodied_sword.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/quest_items/bloodied_sword.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/quest_items/book_sheet2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/quest_items/flower.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/quest_items/flower.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/quest_items/key_big.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/quest_items/key_big.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Grafics/quest_items/keys.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Grafics/quest_items/keys.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Moonstone_Keeper Eldermoon_Grove - By SUCART/Attack1-MoonstoneKeeper-SUCART/No BG/trav2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Moonstone_Keeper Eldermoon_Grove - By SUCART/Death-MoonstoneKeeper-SUCART/No BG/trav1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Music/doorBell.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/cutscenes/Timeline.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/cutscenes/father.playable.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/scripts/PlayerMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/scripts/PlayerMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp/bg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/temp/bg.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp/enemy.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/temp/enemy.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp/interactible.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/temp/interactible.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp/object.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/temp/object.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/temp/player.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/temp/player.png.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +184,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "dev",
+    "git-widget-placeholder": "code",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -102,6 +245,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741972389690</updated>
       <workItem from="1741972390971" duration="3212000" />
+      <workItem from="1742005762092" duration="1792000" />
     </task>
     <servers />
   </component>
