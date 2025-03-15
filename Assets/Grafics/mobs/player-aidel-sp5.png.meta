@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player-aidel-sp5_0: 7403203447608180004
+      player-aidel-sp5_1: 3194078604724040238
+      player-aidel-sp5_2: -8162556265682185578
+      player-aidel-sp5_3: 1976780179526726785
+      player-aidel-sp5_4: -2452176134317793710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

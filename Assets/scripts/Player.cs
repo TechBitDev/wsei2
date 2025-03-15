@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     public float playerSpeed = 5f;
     public float jumpForce = 10f;
@@ -49,6 +49,14 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.Log("inverting horizontal controls");
             inputMultiplier *= -1;
+        }
+
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            Debug.Log("touched enemy");
+            SendMessage("playDeathAnimationSkull");
+            Destroy(GameObject.Find("Player"));
+            Debug.Log("aa");
         }
 
     }

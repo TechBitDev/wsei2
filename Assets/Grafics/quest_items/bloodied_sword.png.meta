@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bloodied_sword_0: -3179921065330440163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
