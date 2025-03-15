@@ -19,7 +19,7 @@ public class SkipCutscene : MonoBehaviour
             GetComponent<VideoPlayer>().Stop();
             CutscenePlayer.SetActive(false);
             SendMessage("pauseMenuStartListening");
-            SendMessage("cameraStartFollowing");
+            SendMessage("cameraStartFollowing"); 
             Game.SetActive(true);
         }
     }
