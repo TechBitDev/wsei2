@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9a23a4b31c2475b4ba6abd6988b25938
+guid: 6d8f1846bed522a4abea0daa458fd5e9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3285745442672447574
-    second: walking_righht_3_0
+      213: -5649045788070911345
+    second: shelf_book_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,19 +97,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WindowsStoreApps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
     buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: walking_righht_3_0
+      name: shelf_book_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 0
-        width: 45
-        height: 98
+        x: 10
+        y: 136
+        width: 94
+        height: 110
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65099dc4210599d20800000000000000
-      internalID: 3285745442672447574
+      spriteID: f82ed1229ce8a91b0800000000000000
+      internalID: -5649045788070911345
       vertices: []
       indices: 
       edges: []
@@ -160,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      walking_righht_3_0: 3285745442672447574
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
