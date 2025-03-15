@@ -1,10 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
-<<<<<<< Updated upstream
 --- !u!114 &-8940469361407400751
-=======
---- !u!114 &-7628725792695107657
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -13,7 +9,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
   m_Name: Activation Track
   m_EditorClassIdentifier: 
@@ -100,16 +95,6 @@ MonoBehaviour:
     - {fileID: 2309470449371107303}
   m_PostPlaybackState: 3
 --- !u!114 &-3991817289133283951
-=======
-  m_Script: {fileID: 11500000, guid: 15c38f6fa1940124db1ab7f6fe7268d1, type: 3}
-  m_Name: Signal Emitter
-  m_EditorClassIdentifier: 
-  m_Time: 1.0333333333333334
-  m_Retroactive: 0
-  m_EmitOnce: 0
-  m_Asset: {fileID: 0}
---- !u!114 &-1685988268833138261
->>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -118,7 +103,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
   m_Name: Activation Track (1)
   m_EditorClassIdentifier: 
@@ -204,15 +188,6 @@ MonoBehaviour:
     m_Objects:
     - {fileID: 7666860753582876051}
   m_PostPlaybackState: 3
-=======
-  m_Script: {fileID: 11500000, guid: 15c38f6fa1940124db1ab7f6fe7268d1, type: 3}
-  m_Name: Signal Emitter
-  m_EditorClassIdentifier: 
-  m_Time: 1.0333333333333334
-  m_Retroactive: 0
-  m_EmitOnce: 0
-  m_Asset: {fileID: 0}
->>>>>>> Stashed changes
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -226,20 +201,15 @@ MonoBehaviour:
   m_Name: chmurka_0Timeline
   m_EditorClassIdentifier: 
   m_Version: 0
-<<<<<<< Updated upstream
   m_Tracks:
   - {fileID: -8940469361407400751}
   - {fileID: -3991817289133283951}
-=======
-  m_Tracks: []
->>>>>>> Stashed changes
   m_FixedDuration: 0
   m_EditorSettings:
     m_Framerate: 60
     m_ScenePreview: 1
   m_DurationMode: 0
   m_MarkerTrack: {fileID: 0}
-<<<<<<< Updated upstream
 --- !u!114 &2309470449371107303
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -296,5 +266,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
   m_Name: ActivationPlayableAsset
   m_EditorClassIdentifier: 
-=======
->>>>>>> Stashed changes
