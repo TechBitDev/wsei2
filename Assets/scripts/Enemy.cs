@@ -9,11 +9,10 @@ public class Enemy : MonoBehaviour
         // if (collision.gameObject.CompareTag("Player"))
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log("touched enemy");
             SendMessage("playDeathAnimationSkull");
             gameOverScreen.SetActive(true);
             Destroy(GameObject.Find("Player"));
-            Debug.Log("aa");
+            Debug.Log("killed player");
 
         }
 
