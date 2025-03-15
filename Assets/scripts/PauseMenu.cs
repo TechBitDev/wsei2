@@ -27,6 +27,10 @@ public class PauseMenu : MonoBehaviour
         isListening = true;
     }
 
+    void pauseMenuStopListening() {
+        isListening = false;
+    }
+
     void Pause()
     {
         pauseMenuUI.SetActive(true);
